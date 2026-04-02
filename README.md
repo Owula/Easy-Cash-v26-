@@ -1,5 +1,4 @@
-# Easy-Cash-v26-
-Connection platform 
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
