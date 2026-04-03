@@ -1,4 +1,3 @@
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -461,7 +460,7 @@
     });
 
     document.getElementById('groupBtn').addEventListener('click', () => {
-      window.open ( https://chat.whatsapp.com/HSOzY5nv4dIIFqoaZJWlXi', '_blank');
+      window.open ('https://chat.whatsapp.com/DLVqED6zS4i0rpfyZNWPCc', '_blank');
     });
 
     document.getElementById('airtimeBtn').addEventListener('click', () => showPage('featureLock'));
